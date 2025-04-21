@@ -5,7 +5,7 @@ Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok 
 ## Fitur
 
 - Struktur HTML5 yang bersih
-- Contoh penggunaan elemen dasar seperti paragraf, gambar, dan tautan
+- Contoh penggunaan elemen dasar seperti paragraf dan gambar
 - Responsif di berbagai perangkat
 
 ## Demo
