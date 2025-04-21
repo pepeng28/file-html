@@ -1,4 +1,4 @@
-# file-html<img src="HTML5_logo_and_wordmark.svg.png" width="30"/>
+# file-html<img src="html.png" width="30"/>
 
 Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok untuk pemula yang ingin memahami struktur dasar HTML.
 
