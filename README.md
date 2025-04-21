@@ -3,7 +3,7 @@
 
 Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok untuk pemula yang ingin memahami struktur dasar HTML.
 
-![](https://images.app.goo.gl/9iFBKwHF1eai8QgB6)
+![yo](https://images.app.goo.gl/9iFBKwHF1eai8QgB6)
 
 ## Fitur
 
