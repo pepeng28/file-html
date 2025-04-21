@@ -15,4 +15,12 @@ Lihat demo langsung di: [https://pepeng28.github.io/file-html/](https://pepeng28
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah MIT License.
+# Open Source License (MIT)
+
+Copyright (c) 2025 pepeng28
+
+Proyek ini dilisensikan di bawah **MIT License**.
+
+Anda bebas untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan perangkat lunak ini, dengan syarat Anda mencantumkan pemberitahuan hak cipta dan lisensi ini dalam semua salinan atau bagian penting perangkat lunak.
+
+Perangkat lunak ini disediakan "SEBAGAIMANA ADANYA", tanpa jaminan apapun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, atau pelanggaran hak cipta. Dalam hal apapun, penulis atau pemegang hak cipta tidak bertanggung jawab atas klaim, kerusakan, atau tuntutan lainnya yang timbul dari penggunaan perangkat lunak ini.
