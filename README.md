@@ -18,4 +18,4 @@ open source
 ## Cara Menggunakan
 1. **Clone** atau **Download** repositori ini:
    ```bash
-   git clone https://github.com/pepeng28/proyek-html.git
+   git clone https://github.com/pepeng28/file-html.git
