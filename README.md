@@ -1,5 +1,5 @@
 # file-html
-# [![Vim The editor]
+# [![Vim The editor](HTML5_logo_and_wordmark.svg.png)
 
 Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok untuk pemula yang ingin memahami struktur dasar HTML.
 
