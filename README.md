@@ -9,6 +9,8 @@ Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok 
 
 ## Fitur
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+
 - Struktur HTML5 yang bersih
 - Contoh penggunaan elemen dasar seperti paragraf, gambar, dan tautan
 - Responsif di berbagai perangkat
