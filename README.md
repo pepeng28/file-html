@@ -1,7 +1,5 @@
 # file-html
-# [![Vim The editor](https://github.com/vim/vim/raw/master/runtime/vimlogo.gif)](https://www.vim.org)
-
-[![Github Build status](https://github.com/vim/vim/workflows/GitHub%20CI/badge.svg)](https://github.com/vim/vim/actions?query=workflow%3A%22GitHub+CI%22)
+# [![Vim The editor]
 
 Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok untuk pemula yang ingin memahami struktur dasar HTML.
 
