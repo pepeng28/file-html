@@ -2,7 +2,7 @@
 
 Proyek sederhana menggunakan HTML dasar untuk membuat halaman web statis. Cocok untuk pemula yang ingin memahami struktur dasar HTML.
 
-![Tampilan Web](https://i.imgur.com/namagambar.png)
+![](https://images.app.goo.gl/9iFBKwHF1eai8QgB6)
 
 ## Fitur
 
